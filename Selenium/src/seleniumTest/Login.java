@@ -18,6 +18,7 @@ public class Login {
 		//driver.close();
 		
 		driver.findElement(By.linkText("Forgot account?")).click();
+		//
 		
 	}
 
