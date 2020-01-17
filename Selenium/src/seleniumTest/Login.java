@@ -16,6 +16,9 @@ public class Login {
 		driver.findElement(By.id("pass")).sendKeys("1234");
 		driver.findElement(By.xpath("/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[2]/td[3]/label/input")).click();//absolute xpath
 		//driver.close();
+		
+		driver.findElement(By.linkText("Forgot account?")).click();
+		
 	}
 
 }
