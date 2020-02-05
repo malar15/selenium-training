@@ -1,0 +1,10 @@
+13:53:47.800 [main] ERROR alpha.Demo - Error message
+13:53:47.805 [main] FATAL alpha.Demo - Fatal Error
+21:54:26.502 [main] ERROR alpha.Demo - Error message
+21:54:26.509 [main] FATAL alpha.Demo - Fatal Error
+21:55:06.062 [main] ERROR alpha.Demo - Error message
+21:55:06.093 [main] FATAL alpha.Demo - Fatal Error
+21:55:22.039 [main] ERROR alpha.Demo - Error message
+21:55:22.042 [main] FATAL alpha.Demo - Fatal Error
+21:56:09.159 [main] ERROR alpha.Demo - Error message
+21:56:09.163 [main] FATAL alpha.Demo - Fatal Error

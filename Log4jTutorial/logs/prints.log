@@ -1,0 +1,10 @@
+22:06:45.703 [main] ERROR alpha.Demo - Error message
+22:06:45.706 [main] FATAL alpha.Demo - Fatal Error
+22:07:22.385 [main] DEBUG beta.Demo1 - Debugging
+22:07:22.387 [main] INFO  beta.Demo1 - Just FYI
+22:07:22.388 [main] ERROR beta.Demo1 - Error message
+22:07:22.388 [main] FATAL beta.Demo1 - Fatal Error
+22:09:38.520 [main] DEBUG beta.Demo1 - Debugging
+22:09:38.524 [main] INFO  beta.Demo1 - Just FYI
+22:09:38.524 [main] ERROR beta.Demo1 - Error message
+22:09:38.524 [main] FATAL beta.Demo1 - Fatal Error
