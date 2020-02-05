@@ -1,0 +1,8 @@
+18:58:36.453 [main] INFO  resources.base - Driver Initialized
+19:00:10.518 [main] INFO  resources.base - Driver Initialized
+19:06:58.740 [TestNG-tests-1] INFO  resources.base - Driver Initialized
+19:09:42.539 [TestNG-tests-1] INFO  resources.base - Driver Initialized
+19:23:09.658 [TestNG-tests-1] INFO  resources.base - Driver Initialized
+19:23:21.774 [TestNG-tests-3] INFO  qaclickacademy.HomePage - Login Page
+19:23:27.332 [TestNG-tests-3] INFO  qaclickacademy.HomePage - Login Page
+19:25:24.570 [TestNG-tests-1] INFO  resources.base - Driver Initialized
